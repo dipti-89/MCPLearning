@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "java-calculator": {
+      "command": "/Users/I320519/Documents/MCPJava/mcp-launcher.sh",
+      "args": [],
+      "env": {
+        "SPRING_PROFILES_ACTIVE": "mcp"
+      }
+    }
+  }
+}
