@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "java-calculator": {
+      "command": "./gradlew",
+      "args": [
+        "bootRun",
+        "--console=plain",
+        "--quiet"
+      ],
+      "cwd": "/Users/I320519/Documents/MCPJava",
+      "env": {
+        "SPRING_PROFILES_ACTIVE": "mcp"
+      }
+    }
+  }
+}

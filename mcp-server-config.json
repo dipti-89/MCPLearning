@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "java-calculator": {
+      "command": "java",
+      "args": [
+        "-jar",
+        "/Users/I320519/Documents/MCPJava/build/libs/demo-0.0.1-SNAPSHOT.jar"
+      ],
+      "env": {
+        "SPRING_PROFILES_ACTIVE": "mcp"
+      }
+    }
+  }
+}
